@@ -12,5 +12,3 @@ I'm releasing it into the public domain.
 ##Demo
 
 For a live demo, go to [http://jslegers.github.com/seatchanger/](http://jslegers.github.com/seatchanger/).
-
-This implementation is MIT licensed.
