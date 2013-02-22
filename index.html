@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>Four in a row</title>
+        <link rel="stylesheet" href="styles.min.css" />
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <div class="shadow-container">
+            <div class="shadow1">
+                <div class="shadow2">
+                    <div class="shadow3">
+                        <div class="container">
+                            <div class="border">
+                                <h1>Zetel-wisselaar</h1>
+                                <p><h2>Raadsel</h2>
+                                Er is één lege zetel. Blauw kan enkel naar rechts en rood kan enkel naar links bewegen. Blauw mag enkel over rood springen
+                                en rood mag enkel over blauw springen. Nooit mag over meer dan één persoon gesprongen worden. De bedoeling is om ervoor
+                                te zorgen dat alle personen van blauw helemaal naar rechts verschuiven en alle personen van rood helemaal naar links
+                                verschuiven. Onderstaande wizard legt uit hoe je dit raadsel kunt oplossen in zo weinig mogelijk stappen.</p>
+                                <form>
+                                    <h2>Optie</h2>
+                                    Aantal zetels per kleur : 
+                                    <select id="selection_box">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5" selected="selected">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                    </select>
+                                </form>
+                            </div>
+                            <span id="output"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="code.min.js"></script>
+    </body>
+</html>
