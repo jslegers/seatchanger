@@ -8,3 +8,9 @@ This is just a simple implementation to produce the optimal algorythm for solvin
 I wrote this code in 2010, but it still works in modern browsers.
 
 I'm releasing it into the public domain.
+
+##Demo
+
+For a live demo, go to [http://jslegers.github.com/seatchanger/](http://jslegers.github.com/seatchanger/).
+
+This implementation is MIT licensed.
