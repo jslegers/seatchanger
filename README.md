@@ -12,3 +12,6 @@ I'm releasing it into the public domain.
 ##Demo
 
 For a live demo, go to [http://jslegers.github.com/seatchanger/](http://jslegers.github.com/seatchanger/).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jslegers/seatchanger/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
